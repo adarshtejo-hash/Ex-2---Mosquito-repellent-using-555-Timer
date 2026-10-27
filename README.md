@@ -21,7 +21,11 @@ S.No	Components/Software	Specification
 
 **Circuit Diagram**
 
-(Insert Proteus circuit diagram here.)
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/ddf07c1a-c2ae-48ee-a2d6-3548dabdcb81" />
+**Reference Circuit**
+<img width="514" height="389" alt="WhatsApp Image 2026-10-26 at 9 51 38 PM" src="https://github.com/user-attachments/assets/b8e531c8-ffa4-4076-9f70-73d2bf535cd7" />
+
+
 
 **Theory**
 
